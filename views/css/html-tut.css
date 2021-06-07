@@ -1,0 +1,100 @@
+ .html-side-bar{
+    width: 380px; 
+    height: 88vh;
+    min-height: 85vh; 
+    position:sticky ; 
+    top: 61px;
+    overflow-y: scroll; 
+} 
+
+
+.burger{
+    background-color: grey;
+    display: none;
+    position: absolute;
+    cursor: pointer;
+    /* right: 20px; */
+    top: 90px;
+    width: 100%;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.burger h2{
+    position: relative;
+    top: 18px;
+    left: 12px;
+}
+
+.line{
+    display: flex;
+    flex-direction: column;
+    width: 33px;
+    background-color: #fff;
+    height: 4px;
+    margin: 3px 3px;
+}
+.copy-btn{
+    color: #fff!important;
+    border: 2px solid #fff!important;
+    position: relative;
+    top: 0px;
+    margin-right: 23px;
+}
+
+img {
+    cursor: pointer;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    }
+
+@media only screen and (max-width: 1140px){
+    .burger{
+        margin-bottom: 20px;
+        display: flex;
+        flex-direction: column;
+        z-index: 1;
+        background-color: #111;
+
+    }
+
+    .line{
+    position: relative;
+    left: 254px;
+    bottom: 23px;
+    }
+
+    .container-resp{
+        /* justify-content: center !important; */
+        flex-direction: column;
+        margin-top: 80px;
+
+    }
+
+    .html-side-bar{
+        position: static ;
+        width: 100vw;
+        margin-bottom: 20px;
+        
+        
+        
+    }
+    .html_side_bar_resp{
+        display: none !important;
+        margin: 40px;
+        height: 0%;
+        
+    }
+
+    .width-resp{
+        width: 100% !important;
+    }
+
+
+
+    
+}
