@@ -41,9 +41,9 @@ Answer 1 Yes!!
 
 Answer 2 Yes you can download note in pdf form and copy code easily
 
-#### Question 3 Dis you generate SEO report? How was the report?
+#### Question 3 Did you generate SEO report? How was the report?
 
-Answer 3 Reprot was much better SEO score is 90/100 and Perfomance is 99/100. Youc can also verify it!
+Answer 3 Report was much better SEO score is 90/100 and Perfomance is 99/100. You can also verify it!
 
 ## My GitHub Account
 
